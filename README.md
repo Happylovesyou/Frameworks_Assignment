@@ -46,3 +46,14 @@ We used the **metadata.csv** file from the [CORD-19 Research Dataset](https://ww
    ```bash
    git clone https://github.com/your-username/Frameworks_Assignment.git
    cd Frameworks_Assignment
+
+---
+
+## 💡 Reflection
+Working with the CORD-19 dataset was both exciting and challenging.  
+- At first, handling missing values was difficult, but I learned how to use Pandas functions like `dropna` and `to_datetime`.  
+- Visualizing publication trends gave me insight into how quickly the global research community responded to COVID-19.  
+- Building the Streamlit app was a new experience, and it showed me how data science workflows can be shared interactively.  
+
+This project improved my confidence in **data exploration, cleaning, visualization, and web app development with Streamlit**.
+
